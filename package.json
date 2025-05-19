@@ -42,7 +42,7 @@
     "lodash": "=4.17.11"
   },
   "devDependencies": {
-    "base-x": "=3.0.4",
+    "base-x": "3.0.11",
     "bitcore-build": "https://github.com/bitpay/bitcore-build.git#1023e8a99cd42b9241ccafe8e34c52f308c10284",
     "brfs": "^2.0.1",
     "chai": "^4.2.0",
